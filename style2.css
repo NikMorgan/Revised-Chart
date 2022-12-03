@@ -1,0 +1,27 @@
+body{
+  background-color: heathergrey;
+  font-family: Georgia, serif;
+  
+}
+
+h1 {
+  color: black;
+  text-align: center;
+
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-size: 18px;
+}
+
+h4 {
+  color: black;
+  font-size: 22px;
+  text-align: left;
+  font-family: 'Quicksand', sans-serif;
+font-family: 'Roboto', sans-serif;
+margin-left: 1em;
+margin-right: 1em;
+}
